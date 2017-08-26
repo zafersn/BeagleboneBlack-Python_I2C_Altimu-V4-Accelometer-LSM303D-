@@ -14,6 +14,12 @@ Aşağıdaki resimde görüldüğü gibi.<br>
 6b = gyro <br>
 5d = barometer<br>
 <br>
+
+#pin şeması 
+
+![Screen Shot](https://github.com/zafersn/BeagleboneBlack-Python_I2C_Altimu-V4-Accelometer-LSM303D-/blob/master/img/beaglebone-black-pinout.jpg)<br>
+
+
 # Referanslar <br>
 
 ### https://learn.adafruit.com/setting-up-io-python-library-on-beaglebone-black/i2c
